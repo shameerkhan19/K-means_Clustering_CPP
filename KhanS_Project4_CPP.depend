@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1477889483 source:c:\users\shameer khan\desktop\khans_project4_cpp\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<cstdlib>
+	<ctime>
+
